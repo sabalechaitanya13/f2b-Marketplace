@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f3f4f6;
+  color: #111827;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e5e7eb;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #15803d;
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #166534;
+}
+
+/* Smooth */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Inputs */
+input,
+select,
+textarea,
+button {
+  font-family: inherit;
+}
+
+/* Image */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Button Animation */
+button {
+  transition: 0.3s ease;
+}
+
+/* Card Hover */
+.market-card {
+  transition: 0.3s ease;
+}
+
+.market-card:hover {
+  transform: translateY(-5px);
+}
+
+/* Dark Mode */
+.dark body {
+  background: #111827;
+  color: white;
+}
+
+/* Shadows */
+.shadow-soft {
+  box-shadow:
+    0 10px 30px
+    rgba(0, 0, 0, 0.08);
+}
+
+/* Gradient */
+.green-gradient {
+  background:
+    linear-gradient(
+      135deg,
+      #16a34a,
+      #15803d
+    );
+}

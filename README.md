@@ -1,4 +1,4 @@
-# F2B Marketplace 🚀
+<img width="872" height="1119" alt="image" src="https://github.com/user-attachments/assets/46d07f05-cdd7-4805-97d1-55c79806b279" /># F2B Marketplace 🚀
 
 A modern and responsive full-stack marketplace web application built to provide a smooth buying and selling experience. This project focuses on clean UI, real-time functionality, secure authentication, and scalable architecture.
 
@@ -147,6 +147,23 @@ PORT=5000
 # 📸 Screenshots
 
 <img width="2879" height="1630" alt="image" src="https://github.com/user-attachments/assets/0612a540-a9dc-4a9a-bc6c-f4353586d0bb" />
+
+<img width="905" height="1114" alt="image" src="https://github.com/user-attachments/assets/ff9f55ab-35a4-4bfc-95f9-f81e172d5054" />
+
+<img width="2878" height="1473" alt="image" src="https://github.com/user-attachments/assets/741a70c8-6680-4a46-9cfc-08621495a004" />
+
+<img width="872" height="1119" alt="image" src="https://github.com/user-attachments/assets/ab7a8f87-6722-434a-871d-23b20fd18d44" />
+
+<img width="2878" height="1465" alt="image" src="https://github.com/user-attachments/assets/d83fc468-2c91-49d1-94f5-290b0f77fd14" />
+
+
+
+
+
+
+
+
+
 
 
 ---
